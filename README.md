@@ -1,2 +1,3 @@
-# implementacion
-Actividad: Implementación de Patrones de Diseño en C#
+# Implementación de Patrones de Diseño en C#
+
+## Singleton
